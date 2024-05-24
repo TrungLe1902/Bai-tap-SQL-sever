@@ -1,0 +1,13 @@
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+H:\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
